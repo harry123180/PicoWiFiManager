@@ -1,0 +1,65 @@
+#######################################
+# Syntax Coloring Map For PicoWiFiManager
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PicoWiFiManager	KEYWORD1
+ConfigPortal	KEYWORD1
+StorageManager	KEYWORD1
+NetworkScanner	KEYWORD1
+PicoWiFiConfig	KEYWORD1
+WiFiCredentials	KEYWORD1
+NetworkConfig	KEYWORD1
+DeviceConfig	KEYWORD1
+ConnectionStatus	KEYWORD1
+ScannedNetwork	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+autoConnect	KEYWORD2
+startConfigPortal	KEYWORD2
+stopConfigPortal	KEYWORD2
+loop	KEYWORD2
+reset	KEYWORD2
+disconnect	KEYWORD2
+isConnected	KEYWORD2
+isConfigMode	KEYWORD2
+getStatus	KEYWORD2
+getStatusString	KEYWORD2
+getSSID	KEYWORD2
+getLocalIP	KEYWORD2
+getRSSI	KEYWORD2
+getMACAddress	KEYWORD2
+setConfig	KEYWORD2
+getConfig	KEYWORD2
+setDeviceName	KEYWORD2
+setTimeout	KEYWORD2
+setResetPin	KEYWORD2
+setLEDPin	KEYWORD2
+onConnect	KEYWORD2
+onDisconnect	KEYWORD2
+onConfigModeStart	KEYWORD2
+onConfigModeEnd	KEYWORD2
+onStatusChange	KEYWORD2
+enableDualCore	KEYWORD2
+isDualCoreEnabled	KEYWORD2
+enableDebug	KEYWORD2
+printDiagnostics	KEYWORD2
+getUptime	KEYWORD2
+getFreeHeap	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DISCONNECTED	LITERAL1
+CONNECTING	LITERAL1
+CONNECTED	LITERAL1
+CONFIG_MODE	LITERAL1
+ERROR	LITERAL1
