@@ -149,6 +149,21 @@ void loop() {
 - **用戶友好界面**：為手機設備優化的乾淨響應式設計
 - **UTF-8 支援**：完全支援國際字符
 
+### 多設備兼容性展示
+
+配置門戶針對所有設備進行了響應式設計優化：
+
+<div align="center">
+
+| iOS 設備 | Android 設備 |
+|:--------:|:------------:|
+| ![iOS 配置門戶](image/iOSView.jpg) | ![Android 配置門戶](image/AndroidView.jpg) |
+| **iPhone/iPad 界面** | **Android 界面** |
+
+</div>
+
+✅ **測試通過的設備**：iPhone、iPad、Android 手機/平板、Windows PC、Mac、Linux 瀏覽器
+
 ## ⚙️ 高級配置
 
 ```cpp
