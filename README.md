@@ -123,6 +123,21 @@ When the Pico can't connect to saved WiFi networks, it automatically creates an 
 - 📱 **Mobile-responsive design**
 - ℹ️ **Device information page**
 
+### Multi-Device Compatibility
+
+The configuration portal is optimized for all devices with responsive design:
+
+<div align="center">
+
+| iOS Device | Android Device |
+|:----------:|:-------------:|
+| ![iOS Configuration Portal](image/iOSView.jpg) | ![Android Configuration Portal](image/AndroidView.jpg) |
+| **iPhone/iPad Interface** | **Android Interface** |
+
+</div>
+
+✅ **Tested on**: iPhone, iPad, Android phones/tablets, Windows PCs, Mac, Linux browsers
+
 ## 🔧 API Reference
 
 ### Core Methods

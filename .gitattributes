@@ -1,0 +1,16 @@
+# Export attributes for ZIP downloads
+# Images are only for GitHub display, exclude from ZIP downloads
+image/ export-ignore
+
+# Documentation images should not be included in library downloads
+*.jpg export-ignore
+*.png export-ignore
+*.gif export-ignore
+
+# Keep source code and examples in ZIP downloads
+*.cpp export
+*.h export
+*.ino export
+*.md export
+*.txt export
+*.properties export
